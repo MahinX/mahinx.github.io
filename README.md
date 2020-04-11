@@ -1,7 +1,7 @@
-# manojpawarsj12.github.io
+# mahinx.github.io
 
 [![Website monip.org](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://monip.org/)
-[![HitCount](http://hits.dwyl.io/manojpawarsj12/manojpawarsj12github.svg)](http://hits.dwyl.io/manojpawarsj12/manojpawarsj12github)
+[![HitCount](http://hits.dwyl.io/mahinx/mahinxgithub.svg)](http://hits.dwyl.io/mahinx/mahinxgithub)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 ---
